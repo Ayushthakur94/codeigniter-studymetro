@@ -1,0 +1,215 @@
+img.viewAdminLogo {
+    width: 122px;
+    margin-top: 18px;
+    margin-bottom: 8px;
+    border: 1px solid #ccc;
+    padding: 4px;
+    height: 100px;
+}
+img.viewAdminfavicon {
+    margin-top: 18px;
+    margin-bottom: 8px;
+    border: 1px solid #ccc;
+    padding: 4px;
+}
+img.viewSliderImage {
+    width: 150px;
+    padding: 3px;
+    border: 1px solid #ccc;
+}
+li.activePaginationNum.paginationNums {
+    padding: 5px 10px;
+    float: left;
+    position: relative;
+    font-size: 12px;
+    line-height: 1.5;
+    border: 1px solid #ddd;
+    color: #666;
+    background: #fafafa;
+    font-weight: bold;
+}
+.customInputGroups {
+    float: left;
+    margin-right: 6px;
+}
+.cusInputGrpbtn {
+	position: absolute;
+	top: 0;
+	right: 31px;
+}
+img.viewSliderEditImage {
+    width: 222px;
+    padding: 2px;
+    border: 1px solid #ccc;
+    margin-top: 14px;
+}
+a.addNewAdmin {
+    padding: 5px 10px;
+    background: #3c8dbc;
+    border: 1px solid #367fa9;
+    border-radius: 4px;
+    color: #fff;
+    margin-left: 16px;
+}
+img.editGroupIcon {
+    border: 1px solid #ccc;
+    padding: 4px;
+    margin-top: 16px;
+    width: 120px;
+}
+img.editGroupHeaderPic {
+    width: 122px;
+    margin-top: 16px;
+    border: 1px solid #ccc;
+    padding: 4px;
+}
+.searchmenuItem {
+    position: relative;
+}
+.closeValue {
+    position: absolute;
+    top: 10px;
+    right: 8px;
+}
+.menuAddLink input[type="submit"],
+.menuAddLink input[type="button"] {
+    float: right;
+    padding: 4px 8px;
+}
+.showMenuIems {
+    max-height: 200px;
+    overflow: hidden;
+    overflow-y: scroll;
+    margin-top: 12px;
+    margin-bottom: 12px;
+    padding: 0px 0 0 6px;
+    min-height: 140px;
+}
+.showMenuIems .checkbox {
+    margin-top: 0px;
+    margin-bottom: 6px;
+    cursor: pointer;
+}
+.showMenuIems .checkbox:hover {
+    cursor: pointer;
+}
+.form-group.menuAddLink {
+    width: 100%;
+    float: left;
+    margin-bottom: 0;
+    margin-top: 12px;
+}
+.overlapForm .box-body {
+    position: relative;
+}
+.refreshSpin {
+    position: absolute;
+    top: 10px;
+    left: 48%;
+    font-size: 16px;
+}
+.menupaginationSearch {
+    width: 100%;
+    float: left;
+    margin-top: 24px;
+}
+.menuRefreshSpin {
+    position: absolute;
+    font-size: 34px;
+    z-index: 99;
+    left: 40%;
+    top: 94px;
+}
+.tab-content {
+    position: relative;
+}
+.liatAllFavIcons {
+    max-height: 200px;
+    overflow: hidden;
+    overflow-y: scroll;
+    border: 1px solid #d2d6de;
+    padding: 6px;
+    margin: 6px 0px;
+}
+.liatAllFavIcons a label {
+    display: none;
+}
+.liatAllFavIcons a {
+    padding: 8px;
+}
+.liatAllFavIcons a {
+    padding: 5px;
+    float: left;
+    margin: 3px;
+    border: 1px solid;
+    color: #000;
+    font-size: 18px;
+}
+a.activeFavIcon {
+    background: #d2d6de;
+}
+.liatAllFavIcons a:hover {
+    background: #d2d6de;
+}
+i.activeFav {
+    color: #3c8dbc;
+}
+.viewGroupIcon {
+    width: 62px;
+    padding: 3px;
+    border: 1px solid #ccc;
+}
+.profile_pic {
+    border-radius: 50%;
+}
+body.add_group_media .select2-container .select2-selection--single {
+    height: 32px;
+}
+.previewSection {
+    text-align: center;
+}
+.previewSection img {
+    width: 120px;
+    height: 120px;
+}
+.previewFormFields textarea {
+    resize: none;
+}
+.textValidationError {
+    border-color: #ff0000;
+}
+.add-more-btn {
+    display: inline-block;
+    margin-top: 24px;
+}
+.full-grid {
+    margin-left: 15px;
+    max-width: 97%;
+}
+.btn_ad {
+    margin-right: 29px;
+}
+.margin_bottom10{
+    margin-bottom: 10px;
+}
+.add_more{display: block;}
+.add_more .add-more-btn{margin-top: 11px;}
+.box_body .form-control{display: inline-block;
+width: 90%;}
+.box_body .btn_ad {
+    margin-right: 0px;
+    display: inline-block;
+}
+.content_tooltip {
+    color: #484545;
+}
+
+.admin_cmnt_text_box {
+  margin: 14px 7px;
+  width: 863px;
+}
+.cmnt_table{
+    border: 1px solid #ccc;
+    margin: 8px 8px 16px;
+    width: 95%;
+}
